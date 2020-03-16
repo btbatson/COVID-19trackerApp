@@ -1,2 +1,2 @@
 # COVID-19trackerApp
- COVID-19 tracker is a native android application which fetches its data mainly from World Meters via a NodeJS data scraping and reporting API. 
+Worked on a small android client app which reports real time data about the outbreak of COVID-19 worldwide. COVID-19 tracker is a native android application which fetches its data mainly from World Meters via a NodeJS data scraping and reporting API. Readmore here https://titusbatson.com/simple-covid-19-tracker-application/
